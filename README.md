@@ -1,4 +1,11 @@
-# Getting Started with Create React App
+# React Static Digital Business Card
+
+<p align="center">
+  <img 
+    height="300"
+    src="./src/images/luna_digital_card.png"
+  >
+</p>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
